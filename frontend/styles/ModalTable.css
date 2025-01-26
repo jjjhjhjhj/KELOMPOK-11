@@ -1,0 +1,35 @@
+.modal-table-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .modal-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .modal-table th,
+  .modal-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .modal-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .modal-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .modal-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  

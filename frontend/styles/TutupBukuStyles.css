@@ -1,0 +1,31 @@
+.tutup-buku-container {
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .tutup-buku-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .tutup-buku-table th, .tutup-buku-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .tutup-buku-table th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ddd;
+  }
+  
